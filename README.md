@@ -19,6 +19,7 @@ Sistema de **Procesamiento de Lenguaje Natural (NLP)** para la construcción aut
 
 ## 🏗️ Arquitectura
 
+```
 ┌─────────────────────────────────────────────────────────────────┐
 │                    MYTHOLOGY KNOWLEDGE GRAPH                     │
 ├─────────────────────────────────────────────────────────────────┤
@@ -37,6 +38,7 @@ Sistema de **Procesamiento de Lenguaje Natural (NLP)** para la construcción aut
 │  └──────────────┘    └──────────────┘    └──────────────┘       │
 │                                                                  │
 └─────────────────────────────────────────────────────────────────┘
+```
 
 ## 🚀 Características
 
@@ -61,6 +63,7 @@ Sistema de **Procesamiento de Lenguaje Natural (NLP)** para la construcción aut
 
 ## 📁 Estructura del Proyecto
 
+```
 10_NLP_Mythology_Knowledge/
 │
 ├── nb_principal.ipynb          # Notebook principal del proyecto
@@ -80,6 +83,7 @@ Sistema de **Procesamiento de Lenguaje Natural (NLP)** para la construcción aut
 │
 └── outputs/
     └── graphs/                 # Visualizaciones generadas
+```
 
 ## ⚙️ Instalación
 
@@ -184,26 +188,15 @@ LOCATION: Mount Olympus, Underworld, Tartarus
 | NER - Héroes | 0.88 | 0.85 | 0.86 |
 | Extracción de Relaciones | 0.85 | 0.82 | 0.83 |
 
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor:
-
-1. Fork el repositorio
-2. Crea una rama (`git checkout -b feature/nueva-caracteristica`)
-3. Commit tus cambios (`git commit -m 'Añadir nueva característica'`)
-4. Push a la rama (`git push origin feature/nueva-caracteristica`)
-5. Abre un Pull Request
-
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ## 👤 Autor
 
-- **César Adrián Delgado Díaz**
-- 🌐 Portfolio: [tu-portfolio.com](https://tu-portfolio.com)
-- 💼 LinkedIn: [linkedin.com/in/cesar-delgado-diaz](https://www.linkedin.com/in/cesar-delgado-diaz)
-- 🐙 GitHub: [github.com/cesar530](https://github.com/cesar530)
+- 👤 Autor : **César Adrián Delgado Díaz**
+- 💼 LinkedIn: [linkedin.com/in/cesar-delgado-diaz](linkedin.com/in/cesar-delgado-diaz)
+- 🐙 GitHub: [github.com/tu-usuario](https://github.com/cesar530)
 
 ## 🙏 Agradecimientos
 
